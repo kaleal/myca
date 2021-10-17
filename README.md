@@ -1,6 +1,7 @@
 # myca
 
 ## Preparing dev env
+
 1. Clone the project
 ```
 % git clone git@github.com:kaleal/myca.git
@@ -12,7 +13,6 @@
 ```
 
 3. Run tests
-
 ```
 % make test
 ```
